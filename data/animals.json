@@ -144,6 +144,15 @@
         "hungry"
       ],
       "id": "14"
+    },
+    {
+      "name": "KJ",
+      "species": "Dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "15"
     }
   ]
 }
