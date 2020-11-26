@@ -153,6 +153,15 @@
         "goofy"
       ],
       "id": "15"
+    },
+    {
+      "name": "Kristoffer",
+      "species": "Raindeer",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "16"
     }
   ]
 }
