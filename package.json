@@ -1,0 +1,28 @@
+{
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  },
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KJWesthoff/zookeepr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KJWesthoff/zookeepr/issues"
+  },
+  "homepage": "https://github.com/KJWesthoff/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.6.3"
+  }
+}
